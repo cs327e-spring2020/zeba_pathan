@@ -1,0 +1,5 @@
+
+We made the case id our primary key for each of our three tables, so the case id is also our foreign key. 
+
+*Note: still a little unclear on if this is the right way to do it, so we’re planning on coming to office hours on Tuesday to run it by a TA. 
+

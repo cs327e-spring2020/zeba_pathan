@@ -1,3 +1,21 @@
+Dataset 2: National Survey of Substance Abuse Treatment Services
+
+Dataset link: https://www.datafiles.samhsa.gov/study-series/national-survey-substance-abuse-treatment-services-n-ssats-nid13519
+
+
+Dataset description: This dataset is an annual census that collects information on facilities that provide substance abuse treatment from all 50 states. This includes both public and private facilities. This study collects three types of information:  characteristics of individual facilities (types of services offered and treatment provided), information and counts on clients, and general information about the facility. 
+
+What we're looking for: We hope to see how the prevalence of substance abuse services have changed over the years. We can also look for various trends among different types of facilities.
+
+
+Dataset codebook: (from 2018)   
+ http://samhda.s3-us-gov-west-1.amazonaws.com/s3fs-public/field-uploads-protected/studies/N-SSATS-2018/N-SSATS-2018-datasets/N-SSATS-2018-DS0001/N-SSATS-2018-DS0001-info/N-SSATS-2018-DS0001-info-codebook.pdf
+
+
+
+
+
+
 
 Dataset: National Mental Health Services Survey
 

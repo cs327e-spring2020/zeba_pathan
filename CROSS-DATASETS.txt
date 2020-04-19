@@ -1,0 +1,9 @@
+
+1) We would join our two datasets on the "OWNERSHP" variable, which describes the different types of organizations that could own the facility. Both of our datasets have this variable to describe the facilities. We could make this query an aggregate query. In this query we want to look at facilities that are owned by private for profit organizations so we put that under our "HAVING" clause. When ownership = 1, this means that the facility is owned by private for profit organizations, so if we use "SUM" on ownership, we can see how many facilities are owned by private for profit organizations. We could group by state. 
+
+2) In this query we could also join our two datasets on the "OWNERSHP" variable, which describes the different types of organizations that could own the facility. We could make this query an aggregate query. In this query we want to look at facilities that are owned by the local government so we put that under our "HAVING" clause. When ownership = 4, this means that the facility is owned the local government, so if we use "COUNT" on ownership, we can see how many facilities are owned by the local government. We could group by state. 
+
+3) We could join our two datasets on the "TREATMT" variable which represents whether or not that facility offers substance abuse treatment. This one could also be an aggregate query, and we could specify under the "having" clause that treatmt be equal to 1, which represents all the facilities that do offer substance abuse treatment. We can apply "SUM" to this and the number we would get as an outcome would represent the amount of facilities that do offer substance abuse treatment in our study. We could group by state.
+
+**Note on transformations: 
+Since our data is pretty clean and organized, we might not need to apply any transformations. If necessary we can use the codebook to convert our values for the variables that we are looking at, such as "ownershp", and make that our transformation. 
